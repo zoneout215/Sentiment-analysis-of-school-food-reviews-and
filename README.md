@@ -5,4 +5,5 @@ This repository serves more as an example of my visualisation skills
 
 Repo consist of: 
 
-*lexicons: folder of used and potentially used sentimental lexicons
+*Lexicons*: folder with .csv of used and potentially used sentimental lexicons
+*Plots*: folder with Chord and Network plots 
