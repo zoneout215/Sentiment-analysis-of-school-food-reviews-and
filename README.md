@@ -11,5 +11,5 @@ Sentiment analysis of school food reviews in 6 various russian regions.
 - **Sentiment_Analysis_School_food.R**: script which generates all the plots and does the preprocessing for it  
 
 The data for this project was given to me for the sake of practice and i don't have a possibility to disclose it, but i hope you can enjoy the plots.
-## Binary sentiments distribution of school food reviews over 5 regions.
+## Binary sentiments distribution of school food reviews over 5 regions
 ![Alt text](Plots/The_distribution_of_positive_negative_reviews.png)
